@@ -1,0 +1,26 @@
+.home {
+  display: flex;
+  height: calc(100vh - var(--header-height) - var(--footer-height));
+
+  .home-column {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+    &.left {
+      background-image: url('../assets/agricultural.png');
+      background-size: cover;
+    }
+
+    &.right {
+      background-image: url('../assets/lumbering.png');
+      background-size: cover;
+    }
+  }
+
+  :hover {
+    opacity: 0.8;
+  }
+}

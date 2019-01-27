@@ -1,0 +1,20 @@
+.services {
+  .introduction {
+    font-size: 1.3em;
+  }
+  .label-container {
+    display: flex;
+
+    .label-description {
+      flex: 1;
+      }
+  }
+  .label-title {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+  .label-image {
+    margin-right: 2em;
+    border: 2px solid #8ec835;
+  }
+}

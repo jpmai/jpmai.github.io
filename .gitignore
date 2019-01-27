@@ -1,0 +1,8 @@
+# IDE settings
+.vscode
+
+# Dependencies
+node_modules
+
+# dotenv
+.env

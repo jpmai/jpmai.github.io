@@ -1,0 +1,54 @@
+.header {
+  top: 0px;
+  position: fixed;
+  width: 100%;
+  height: var(--header-height);
+  background-color: var(--light-color);
+  display: flex;
+  align-items: flex-end;
+  flex-direction: row;
+  z-index: 10;
+
+  .header-app {
+    max-height: var(--header-height);
+    height: 100%;
+    display: flex;
+    flex: 1;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: transparent;
+
+    &:hover {
+      cursor: pointer;
+    }
+
+    .header-app-logo {
+      height: 90%;
+      padding-top: 1em;
+    }
+
+    .header-app-text-box {
+      padding-top: var(--space-border);
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+
+      .subtitle {
+        margin-top: -20px;
+        font-weight: lighter;
+        font-size: calc(6px + 2vmin);
+      }
+
+      .header-menu {
+        display: flex;
+        flex: 1;
+        justify-content: flex-end;
+        align-items: flex-end;
+
+        .header-menu-item {
+          align-items: flex-end;
+        }
+      }
+    }
+  }
+}
