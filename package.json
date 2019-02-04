@@ -2,7 +2,7 @@
   "name": "react-starter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://www.sarlbonnevial.fr",
+  "homepage": "http://sarlbonnevial.fr",
   "scripts": {
     "start": "PORT=4001 react-scripts start",
     "build": "react-scripts build",
