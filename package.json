@@ -10,7 +10,7 @@
     "eject": "react-scripts eject",
     "commit": "git-cz",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.6",
