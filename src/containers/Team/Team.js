@@ -6,7 +6,7 @@ import MemberCard from '../../components/MemberCard'
 
 const bigBro = require('../../assets/thibaudbonnevial.jpg')
 const littleBro = require('../../assets/noebonnevial.jpg')
-const smith = require('../../assets/smith.jpg')
+const smith = require('../../assets/alexandretonnelier.jpg')
 
 const teamMembers = [
   {

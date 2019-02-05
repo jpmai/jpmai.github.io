@@ -5,7 +5,6 @@ import ImageGallery from 'react-image-gallery'
 
 const agricultural1 = require('../../assets/agricultural1.jpg')
 const agricultural2 = require('../../assets/agricultural2.jpg')
-const agricultural3 = require('../../assets/agricultural3.jpg')
 const agricultural4 = require('../../assets/agricultural4.jpg')
 const agricultural5 = require('../../assets/agricultural5.jpg')
 const agricultural6 = require('../../assets/agricultural6.jpg')
@@ -20,34 +19,27 @@ const agricultural14 = require('../../assets/agricultural14.jpg')
 const agricultural15 = require('../../assets/agricultural15.jpg')
 const agricultural16 = require('../../assets/agricultural16.jpg')
 const agricultural17 = require('../../assets/agricultural17.jpg')
-const lumbering1 = require('../../assets/lumbering1.jpg')
 const lumbering2 = require('../../assets/lumbering2.jpg')
 const lumbering3 = require('../../assets/lumbering3.jpg')
 const lumbering4 = require('../../assets/lumbering4.jpg')
-const lumbering5 = require('../../assets/lumbering5.jpg')
 const lumbering6 = require('../../assets/lumbering6.jpg')
 const lumbering7 = require('../../assets/lumbering7.jpg')
 const lumbering8 = require('../../assets/lumbering8.jpg')
 const lumbering9 = require('../../assets/lumbering9.jpg')
-const lumbering10 = require('../../assets/lumbering10.jpg')
 const lumbering11 = require('../../assets/lumbering11.jpg')
 const lumbering12 = require('../../assets/lumbering12.jpg')
-const lumbering13 = require('../../assets/lumbering13.jpg')
 const lumbering14 = require('../../assets/lumbering14.jpg')
 const lumbering15 = require('../../assets/lumbering15.jpg')
 const lumbering16 = require('../../assets/lumbering16.jpg')
 const lumbering17 = require('../../assets/lumbering17.jpg')
 const lumbering18 = require('../../assets/lumbering18.jpg')
-const lumbering19 = require('../../assets/lumbering19.jpg')
 const lumbering20 = require('../../assets/lumbering20.jpg')
 const lumbering21 = require('../../assets/lumbering21.jpg')
 const lumbering22 = require('../../assets/lumbering22.jpg')
-const lumbering23 = require('../../assets/lumbering23.jpg')
 const lumbering24 = require('../../assets/lumbering24.jpg')
 const lumbering25 = require('../../assets/lumbering25.jpg')
 const lumbering26 = require('../../assets/lumbering26.jpg')
 const lumbering27 = require('../../assets/lumbering27.jpg')
-const lumbering28 = require('../../assets/lumbering28.jpg')
 const lumbering29 = require('../../assets/lumbering29.jpg')
 const lumbering30 = require('../../assets/lumbering30.jpg')
 const lumbering31 = require('../../assets/lumbering31.jpg')
@@ -61,10 +53,6 @@ const images = [
   {
     original: agricultural2,
     thumbnail: agricultural2
-  },
-  {
-    original: agricultural3,
-    thumbnail: agricultural3
   },
   {
     original: agricultural4,
@@ -123,20 +111,12 @@ const images = [
     thumbnail: agricultural17
   },
   {
-    original: lumbering1,
-    thumbnail: lumbering1
-  },
-  {
     original: lumbering2,
     thumbnail: lumbering2
   },
   {
     original: lumbering3,
     thumbnail: lumbering4
-  },
-  {
-    original: lumbering5,
-    thumbnail: lumbering5
   },
   {
     original: lumbering6,
@@ -155,20 +135,12 @@ const images = [
     thumbnail: lumbering9
   },
   {
-    original: lumbering10,
-    thumbnail: lumbering10
-  },
-  {
     original: lumbering11,
     thumbnail: lumbering11
   },
   {
     original: lumbering12,
     thumbnail: lumbering12
-  },
-  {
-    original: lumbering13,
-    thumbnail: lumbering13
   },
   {
     original: lumbering14,
@@ -191,10 +163,6 @@ const images = [
     thumbnail: lumbering18
   },
   {
-    original: lumbering19,
-    thumbnail: lumbering19
-  },
-  {
     original: lumbering20,
     thumbnail: lumbering20
   },
@@ -205,10 +173,6 @@ const images = [
   {
     original: lumbering22,
     thumbnail: lumbering22
-  },
-  {
-    original: lumbering23,
-    thumbnail: lumbering23
   },
   {
     original: lumbering24,
@@ -225,10 +189,6 @@ const images = [
   {
     original: lumbering27,
     thumbnail: lumbering27
-  },
-  {
-    original: lumbering28,
-    thumbnail: lumbering28
   },
   {
     original: lumbering29,
